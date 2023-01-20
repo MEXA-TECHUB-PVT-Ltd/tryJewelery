@@ -1,4 +1,4 @@
-#Fri Jan 20 11:50:13 PKT 2023
+#Fri Jan 20 12:25:38 PKT 2023
 path.4=12/classes.dex
 path.3=11/classes.dex
 path.2=0/classes.dex
@@ -7,19 +7,19 @@ path.7=3/classes.dex
 path.6=15/classes.dex
 path.5=14/classes.dex
 path.0=classes.dex
-base.4=D\:\\kkk\\try_jewelry\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
-base.3=D\:\\kkk\\try_jewelry\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
-base.2=D\:\\kkk\\try_jewelry\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.1=D\:\\kkk\\try_jewelry\\android\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
-base.0=D\:\\kkk\\try_jewelry\\android\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.4=D\:\\kkk\\tryJewelery-app\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
+base.3=D\:\\kkk\\tryJewelery-app\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
+base.2=D\:\\kkk\\tryJewelery-app\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.1=D\:\\kkk\\tryJewelery-app\\android\\app\\build\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
+base.0=D\:\\kkk\\tryJewelery-app\\android\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
 renamed.7=classes8.dex
 renamed.6=classes7.dex
-base.7=D\:\\kkk\\try_jewelry\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\3\\classes.dex
+base.7=D\:\\kkk\\tryJewelery-app\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\3\\classes.dex
 renamed.5=classes6.dex
-base.6=D\:\\kkk\\try_jewelry\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
+base.6=D\:\\kkk\\tryJewelery-app\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
 renamed.4=classes5.dex
-base.5=D\:\\kkk\\try_jewelry\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex
+base.5=D\:\\kkk\\tryJewelery-app\\android\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\14\\classes.dex

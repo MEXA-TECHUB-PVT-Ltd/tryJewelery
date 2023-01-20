@@ -18,31 +18,7 @@ import styles from './styles';
 import { useNavigation } from '@react-navigation/native'
 const App = () => {
     const navigation = useNavigation()
-    const [clickedId, setclickedId] = useState(0)
-    const [isLoading, setLoading] = useState(true);
-    const plan = (item, index) => {
-        if (index == 0) {
-            setclickedId(0)
-        }
-        if (index == 1) {
-            setclickedId(1)
-        }
-        if (index == 2) {
-            setclickedId(2)
-        }
-        if (index == 3) {
-            setclickedId(3)
-        }
-        if (index == 4) {
-            setclickedId(4)
-        }
-        if (index == 5) {
-            setclickedId(5)
-        }
-        if (index == 6) {
-            setclickedId(6)
-        }
-    }
+   
     const [buttons, setbuttons] = useState([
         {
             id: 1,
@@ -118,7 +94,7 @@ const App = () => {
             <View style={{ marginTop: '5%' }}>
                 <View style={styles.v1}>
                     <Text style={styles.textbl}>Categories</Text>
-                    <TouchableOpacity style={styles.btn1}>
+                    <TouchableOpacity style={styles.btn1} activeOpacity={0.6} onPress={() => navigation.navigate('Categories')} >
                         <Text style={styles.textw}>See all</Text>
                     </TouchableOpacity>
                 </View>
