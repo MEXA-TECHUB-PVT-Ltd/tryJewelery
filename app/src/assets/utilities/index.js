@@ -19,7 +19,7 @@ const appImages = {
   ear:require(IMAGES_DIR + 'ear.png'),
   hand1:require(IMAGES_DIR + 'hand1.png'),
 
-  // confermation:require(IMAGES_DIR + 'confermation.png'),
+  back:require(IMAGES_DIR + 'back.png'),
 
   // camera:require(IMAGES_DIR + 'camera.png'),
   // smile:require(IMAGES_DIR + 'smile.png'),
